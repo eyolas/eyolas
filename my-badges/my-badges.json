@@ -89,5 +89,12 @@
     "desc": "My favorite word is \"add\".",
     "body": "My favorite commit message words are:\n\n1. add (used 101 times)\n2. correction (used 69 times)\n3. version (used 63 times)\n4. bump (used 58 times)\n5. update (used 50 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
   }
 ]
