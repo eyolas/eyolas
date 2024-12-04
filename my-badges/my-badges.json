@@ -3,98 +3,112 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/vader-httpclient/vader-spring/commit/aaf24a8ca7a2e22fdf64b931231421687c2a43eb\"><strong>a</strong>af24a8ca7a2e22fdf64b931231421687c2a43eb</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+    "body": "- <a href=\"https://github.com/eyolas/sonata-annotationparser/commit/a3fb17c086961e1c85f5d7f64eeed366deb4ef36\"><strong>a</strong>3fb17c086961e1c85f5d7f64eeed366deb4ef36</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/eyolas/gulp-jsonmerge/commit/abba0a2f670645a02758a00bbad3861f028c7d7d\"><strong>ab</strong>ba0a2f670645a02758a00bbad3861f028c7d7d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+    "body": "- <a href=\"https://github.com/eyolas/gitlab-download/commit/ab0b251095b99eb1ddfa83175ff56e28816dcb9b\"><strong>ab</strong>0b251095b99eb1ddfa83175ff56e28816dcb9b</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/k8s-yaml-filter/commit/c8425ff5986024ac528249ac55e5149ab5b2c95c\">c8425ff</a>\n- <a href=\"https://github.com/eyolas/k8s-yaml-filter/commit/291c8936bac7f1663c19b59a48acfa45e123e503\">291c893</a>\n- <a href=\"https://github.com/eyolas/gitlab-download/commit/ab0b251095b99eb1ddfa83175ff56e28816dcb9b\">ab0b251</a>\n- <a href=\"https://github.com/eyolas/node-jcdecaux/commit/fa3cf84096b1dfeaae53087362050197f408c99d\">fa3cf84</a>\n- <a href=\"https://github.com/eyolas/node-jcdecaux/commit/3772b45fe5ebe849bbb3b3d7a3c200b2939d3e40\">3772b45</a>\n- <a href=\"https://github.com/eyolas/node-jcdecaux/commit/3a229b03a5f2c718a485be6c1f0e03a6ba0f8018\">3a229b0</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/jest-serializer-supertest/commit/25e5438d942ca0ad7f52a6d2756310ddb8a6ea9c\">25e5438</a>\n- <a href=\"https://github.com/eyolas/jest-serializer-supertest/commit/1a1ed27be65e99d5e23bff5fa26d2d8ad2c1c583\">1a1ed27</a>\n- <a href=\"https://github.com/eyolas/yanlog/commit/b38c202eb1bb111d16344f7a737428a46b906c5a\">b38c202</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
     "id": "bad-words",
     "tier": 0,
     "desc": "I used a word \"fuck\" in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/vader-httpclient/vader/commit/d187568d0795f61ab103be6da8d4333f4db5cb9d\">d187568</a>: correction isPromise (fuck angular)\n- <a href=\"https://github.com/vader-httpclient/vader-spring/commit/7814f3f45c21f6fe31cf36334a9c9aa6eb33f53d\">7814f3f</a>: fuck ...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/bad-words/bad-words.png?raw=true"
+    "body": "Commits:\n\n- <a href=\"https://github.com/vader-httpclient/vader-spring/commit/7814f3f45c21f6fe31cf36334a9c9aa6eb33f53d\">7814f3f</a>: fuck ...\n- <a href=\"https://github.com/vader-httpclient/vader/commit/d187568d0795f61ab103be6da8d4333f4db5cb9d\">d187568</a>: correction isPromise (fuck angular)",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/vader-httpclient/vader-spring/commit/6003ea2d4035e0af960749d43b649abe21f59bcf\">6003ea2</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/flightplan/commit/e4ed34520e706c83c34362b487469195588826d2\">e4ed345</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/vader-httpclient/vader-spring/commit/6003ea2d4035e0af960749d43b649abe21f59bcf\">6003ea2</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/gabliam-multi-conf-loader/commit/6a8ce5780e4e099566cae2a6b74a2baa21278545\">6a8ce57</a>: chore: change import for inspect",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "public-keys-4",
     "tier": 4,
     "desc": "I have four public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-4.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
     "body": "My favorite commit message words are:\n\n1. add (used 101 times)\n2. correction (used 69 times)\n3. version (used 63 times)\n4. bump (used 58 times)\n5. update (used 50 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
-    "id": "public-keys-5",
-    "tier": 5,
-    "desc": "I have five or more public keys",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/eyolas/kong-plugin-referer/pull/1#issuecomment-461473701\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/ng2-intl/commit/8ef31516da70cb9245bf62edf87394ef8a10aa2c\">8ef3151</a>\n- <a href=\"https://github.com/eyolas/ng2-intl/commit/b758f1dc6a3384358afa293bd3b407748066f3a6\">b758f1d</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 3 my own repositories.",
+    "body": "- <a href=\"https://github.com/eyolas/yanlog\">eyolas/yanlog</a>\n- <a href=\"https://github.com/eyolas/netbeansKillSpringBoot\">eyolas/netbeansKillSpringBoot</a>\n- <a href=\"https://github.com/eyolas/kong-plugin-middleman-advanced\">eyolas/kong-plugin-middleman-advanced</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

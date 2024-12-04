@@ -1,8 +1,8 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="128">
+<img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="128">
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/vader-httpclient/vader-spring/commit/aaf24a8ca7a2e22fdf64b931231421687c2a43eb"><strong>a</strong>af24a8ca7a2e22fdf64b931231421687c2a43eb</a>
+- <a href="https://github.com/eyolas/sonata-annotationparser/commit/a3fb17c086961e1c85f5d7f64eeed366deb4ef36"><strong>a</strong>3fb17c086961e1c85f5d7f64eeed366deb4ef36</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
