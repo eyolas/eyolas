@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/gabliam-multi-conf-loader/commit/6a8ce5780e4e099566cae2a6b74a2baa21278545">6a8ce57</a>: chore: change import for inspect
+- <a href="https://github.com/eyolas/privatebin/commit/c5cf0e831f2efa074c4884e707585ce9e124fad4">c5cf0e8</a>: chore: add workflow_dispatch trigger to publish workflow
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
