@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/node-prune/commit/aefa16f2cba74823894a182ae0758c3126f20536">aefa16f</a>: chore: Add /build to .gitignore to exclude build artifacts
+- <a href="https://github.com/eyolas/node-prune/commit/af2799911125ac1be2c21207395bc42c986d4be1">af27999</a>: chore: add GitHub Actions workflow for building and releasing Deno binaries
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

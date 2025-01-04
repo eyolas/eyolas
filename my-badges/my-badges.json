@@ -66,7 +66,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/node-prune/commit/aefa16f2cba74823894a182ae0758c3126f20536\">aefa16f</a>: chore: Add /build to .gitignore to exclude build artifacts",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/node-prune/commit/af2799911125ac1be2c21207395bc42c986d4be1\">af27999</a>: chore: add GitHub Actions workflow for building and releasing Deno binaries",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 112 times)\n2. correction (used 69 times)\n3. version (used 64 times)\n4. bump (used 59 times)\n5. update (used 57 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 114 times)\n2. correction (used 69 times)\n3. version (used 64 times)\n4. bump (used 59 times)\n5. update (used 57 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
