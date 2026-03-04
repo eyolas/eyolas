@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/node-prune/commit/af2799911125ac1be2c21207395bc42c986d4be1">af27999</a>: chore: add GitHub Actions workflow for building and releasing Deno binaries
+- <a href="https://github.com/eyolas/conveyor/commit/b66784d60f391b709a1101ba82528f72c4912286">b66784d</a>: chore: add prd.md to .gitignore
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

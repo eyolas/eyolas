@@ -17,14 +17,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/privatebin/commit/f7c6611df57765a87bdb60e066453c10c5fa5588\">f7c6611</a>\n- <a href=\"https://github.com/eyolas/k8s-yaml-filter/commit/c8425ff5986024ac528249ac55e5149ab5b2c95c\">c8425ff</a>\n- <a href=\"https://github.com/eyolas/k8s-yaml-filter/commit/291c8936bac7f1663c19b59a48acfa45e123e503\">291c893</a>\n- <a href=\"https://github.com/eyolas/gitlab-download/commit/ab0b251095b99eb1ddfa83175ff56e28816dcb9b\">ab0b251</a>\n- <a href=\"https://github.com/eyolas/node-jcdecaux/commit/fa3cf84096b1dfeaae53087362050197f408c99d\">fa3cf84</a>\n- <a href=\"https://github.com/eyolas/node-jcdecaux/commit/3772b45fe5ebe849bbb3b3d7a3c200b2939d3e40\">3772b45</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/fe1ebcda8a2e256c82ad465c077d6a49ab815251\">fe1ebcd</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5df68a9be34540ce4b5e1d6338b527672c047ad7\">5df68a9</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6d48c6f33adf37f243499978df0e459727947c55\">6d48c6f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/da5c93e9f72712ea589fd2fa4ab13e2836be398d\">da5c93e</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/61d0dd05fc2f00bc17eb93d0ebfd2cf62caf2853\">61d0dd0</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/d332545c890497448b330d5c1e9135cdaeeba091\">d332545</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/jest-serializer-supertest/commit/25e5438d942ca0ad7f52a6d2756310ddb8a6ea9c\">25e5438</a>\n- <a href=\"https://github.com/eyolas/jest-serializer-supertest/commit/1a1ed27be65e99d5e23bff5fa26d2d8ad2c1c583\">1a1ed27</a>\n- <a href=\"https://github.com/eyolas/yanlog/commit/b38c202eb1bb111d16344f7a737428a46b906c5a\">b38c202</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/17354d7f09011c33d1eabebb75ce2cfa99f98c15\">17354d7</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/805026d7641fed29c550e289f40f9ead7de23e59\">805026d</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/38a539608cd9fc38ba4daba1be0db83b101169bb\">38a5396</a>\n- <a href=\"https://github.com/eyolas/jest-serializer-supertest/commit/25e5438d942ca0ad7f52a6d2756310ddb8a6ea9c\">25e5438</a>\n- <a href=\"https://github.com/eyolas/jest-serializer-supertest/commit/1a1ed27be65e99d5e23bff5fa26d2d8ad2c1c583\">1a1ed27</a>\n- <a href=\"https://github.com/eyolas/yanlog/commit/b38c202eb1bb111d16344f7a737428a46b906c5a\">b38c202</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/node-prune/commit/af2799911125ac1be2c21207395bc42c986d4be1\">af27999</a>: chore: add GitHub Actions workflow for building and releasing Deno binaries",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/b66784d60f391b709a1101ba82528f72c4912286\">b66784d</a>: chore: add prd.md to .gitignore",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 116 times)\n2. correction (used 69 times)\n3. version (used 64 times)\n4. update (used 59 times)\n5. bump (used 59 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 269 times)\n2. update (used 143 times)\n3. fix (used 82 times)\n4. version (used 73 times)\n5. correction (used 69 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -117,5 +117,68 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/f664cc743e4fb99357246e3c4e3666171e89663b\">f664cc7</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/e92671440bc3719000fb9c3756d6ab5d5f0e479c\">e926714</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6d48c6f33adf37f243499978df0e459727947c55\">6d48c6f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/da5c93e9f72712ea589fd2fa4ab13e2836be398d\">da5c93e</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4a5b88d0ebc3069471895885bdeeed9a07de59db\">4a5b88d</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/c5b18554dc5255b16112033cefa92c2720443b6d\">c5b1855</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/91ae35cfc69ab1e5d6c9669f24b8c81899d0bf87\">91ae35c</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5d6e016450601e1cf724439af727de9aa950e281\">5d6e016</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4ecf3a408b2eb7d95662a2e6cd24501a39e12322\">4ecf3a4</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/e884ff0ec64969f30fd66e64b6d43dcfa36d46a5\">e884ff0</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/8313c87cab4c780b5f6ac767a3e6972020e41273\">8313c87</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/5d6e016450601e1cf724439af727de9aa950e281\">5d6e016</a>: Fix behavioral completeness issues in queue, worker, and utils\n\n- Use recursive sortDeep() in hashPayload for deterministic nested\n  object hashing during deduplication\n- Mark every() as not yet implemented to prevent silent one-shot\n  behavior when users expect repeating jobs\n- Handle numeric removeOnComplete/removeOnFail values via shouldRemove()\n  helper instead of only checking === true\n- Respect maxAttempts in stalled job detection: mark as failed when\n  retry budget is exhausted instead of re-enqueuing forever\n- Emit waiting/delayed events and publish to store in addBulk() to\n  match add() behavior\n- Wrap fetchAndProcess() in try/catch inside poll loop to prevent\n  unhandled rejections from store errors\n- <a href=\"https://github.com/eyolas/conveyor/commit/4ecf3a408b2eb7d95662a2e6cd24501a39e12322\">4ecf3a4</a>: Fix critical and medium bugs across core, shared, and store-memory\n\nCritical: fix timer leak in Worker.withTimeout, hashPayload crash on\nnon-objects, unhandled promise rejection in fire-and-forget processJob,\nand stalled jobs re-enqueuing without incrementing attemptsMade.\n\nMedium: add deduplication support to addBulk, allow retry without\nbackoff configured, preserve all fields in Job.toJSON, clean up\ninsertionOrder in MemoryStore clean/drain, snapshot handler Set in\nEventBus.emit to prevent mid-iteration mutation, and tighten Worker.on\nparameter type from string to QueueEventType.",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/63146f77a6815429b1a1dc3d82dd05a8c757b4b6\">63146f7</a>: fix(release): add --latest argument to changelog generation step\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/43bc8f9b5e36e11d1435211dedb46b2654d57131\">43bc8f9</a>: fix(toc): update interface version to support new features\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/592dcb25de24d56fcf7b1b3d391a447dbfb45beb\">592dcb2</a>: fix(readme): update screenshot paths to correct images",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/8845ccabe3eacdcacd6a8ab8dd5c6f138a2771f5\">8845cca</a>: fix(pkgmeta): reorganize ignore list for clarity and maintainability\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/73a3e6f66ac5b1378e67e39903aa18125ecf60ab\">73a3e6f</a>: fix(release): remove unnecessary args for full changelog generation\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/14322d08eb3f90901a10008e69ccbeb01bee09cb\">14322d0</a>: fix(pkgmeta): update ignore list and improve metadata in Morphomatic.toc\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/28274bb8e81720473a4ca850a75a94accaada481\">28274bb</a>: fix(pkgmeta): remove unnecessary cliff.toml from ignore list\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/98018d5dbec636722027c0507e87f45042e39f19\">98018d5</a>: fix(release): remove unnecessary args for changelog generation\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/9680708b40481e7624ee50f32bbd2c746082b01c\">9680708</a>: fix(release): simplify changelog generation arguments",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/bc18db95698adfdffaf3a70381ef5920a8f4faab\">bc18db9</a>: fix(settings): adjust frame heights for improved layout in settings canvas\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/58c6f1b022d20e658af3da2188c98fac1f394530\">58c6f1b</a>: fix(libs): remove unused script references from Poncho and Sushi XML files\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/c83c1c83cd761a87f9a2d6ff3eddc587126f5a77\">c83c1c8</a>: fix(settings): replace Button with RedButton for consistency in button styling\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/91cfb0203e1f65ba9775887c03ef546e4bd5c40d\">91cfb02</a>: fix(settings): replace PushButton with Button for consistency in button usage\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/6b7489c262c54c2cdd08bd9de43d6485ec184bcc\">6b7489c</a>: fix(settings): replace SetState with SetValue for checkbox state management\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/dda4824c1051fb2cd30a8b33d21650241dfc04b9\">dda4824</a>: fix(toc): update file extensions for Poncho and Sushi libraries\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/d009a50cc0d889acd0a7d1aaa6ed5b6465d99189\">d009a50</a>: fix(settings): replace CheckButton with Check for checklist renderer consistency\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/3e67949b5c2212cbbf3be9409ecc7299cfe0fbf2\">3e67949</a>: fix(settings): replace CheckBox with CheckButton for consistency in checklist renderer",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/sonata-annotationparser/commit/ad3872d3ecb31bb73b862cfdccaf6123bdd7a843\">ad3872d</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/node-prune/commit/aefa16f2cba74823894a182ae0758c3126f20536\">aefa16f</a>\n- <a href=\"https://github.com/eyolas/node-prune/commit/dd13c0fb8fefb5cd0e410ddf5666aef1dd2c5716\">dd13c0f</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/eyolas/conveyor/pull/3\">#3</a>: Add worker rate limiting and cron scheduling (Phase 3)\n- <a href=\"https://github.com/eyolas/conveyor/pull/4\">#4</a>: Add documentation, benchmarks, and code quality fixes\n- <a href=\"https://github.com/eyolas/conveyor/pull/5\">#5</a>: Fix permissions, error handling, and add missing tests",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
