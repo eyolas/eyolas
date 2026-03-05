@@ -25,5 +25,6 @@
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
 <a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
+<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
