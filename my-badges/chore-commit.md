@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/cef86da89e63905d342e461c02cf6be4e86c83b0">cef86da</a>: chore: bump all packages to v0.1.1
-
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+- <a href="https://github.com/eyolas/conveyor/commit/d08bf95d1e6257df74dd72033de41cc8e8b26d3a">d08bf95</a>: chore: bump all packages to v0.1.2
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
