@@ -4,9 +4,16 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/Morphomatic/commit/63146f77a6815429b1a1dc3d82dd05a8c757b4b6">63146f7</a>: fix(release): add --latest argument to changelog generation step
-- <a href="https://github.com/eyolas/Morphomatic/commit/43bc8f9b5e36e11d1435211dedb46b2654d57131">43bc8f9</a>: fix(toc): update interface version to support new features
-- <a href="https://github.com/eyolas/Morphomatic/commit/592dcb25de24d56fcf7b1b3d391a447dbfb45beb">592dcb2</a>: fix(readme): update screenshot paths to correct images
+- <a href="https://github.com/eyolas/conveyor/commit/a3be878cb7ac7c0d2c272b295da15b7d541d8aab">a3be878</a>: fix(test): replace .resolves.not.toThrow() with plain await for bun test compatibility
+
+The bun native test runner does not support .resolves.not.toThrow() and
+throws "Thrown value: undefined" even when the promise resolves normally.
+- <a href="https://github.com/eyolas/conveyor/commit/69544d52e0fe0b185c9b3263f405560e8306acee">69544d5</a>: fix(test): fix formatting, lint, and remove non-portable conformance test
+
+Apply deno fmt, fix unused variable lint error, remove clean createdAt
+fallback test that is not portable across store implementations (PgStore
+does not support updating createdAt).
+- <a href="https://github.com/eyolas/conveyor/commit/438b70d5f431c5ba98a99a58e71f89c1dfd9d25b">438b70d</a>: fix(test): cast invalid parseDelay args to satisfy type checker
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
