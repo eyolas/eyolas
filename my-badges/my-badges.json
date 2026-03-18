@@ -66,7 +66,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/c33ea8417572a25e71e5bdca1ea761b2cd5cfb43\">c33ea84</a>: chore: bump all packages from v0.1.2 to v0.2.0\n\nPhase 4 advanced features (flows, batching) warrant a minor version\nbump. Updates version fields, inter-package caret ranges (^0.1.0 →\n^0.2.0), and lockfile.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/5b60f35d6aa1cc4dd73173c5e08b36d68984a407\">5b60f35</a>: chore: bump all packages from v0.2.0 to v0.3.0\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 335 times)\n2. update (used 159 times)\n3. fix (used 99 times)\n4. version (used 83 times)\n5. tests (used 79 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 340 times)\n2. update (used 162 times)\n3. fix (used 103 times)\n4. tests (used 83 times)\n5. version (used 83 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/352f248ef9657ea4b1b76072aba984b20661c03d\">352f248</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6295f697f351791b91e336a6c2620aeea17db3b0\">6295f69</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/e58e45f865fc5e0ddedf07c6690725ab8feec7ac\">e58e45f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/42e9b848c621d9e40711cb9f7f68cb282e68e682\">42e9b84</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/ecabaf7371d382b404a55d2430957e5f1314c958\">ecabaf7</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/b59eda06f6ec837726fab606a3033cb4740beb28\">b59eda0</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4f1c6028cd16b8ddf79124ce53e3df56a2bcf8ea\">4f1c602</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/b7627b9c08b87c229a0a6fb4feba328ad4ff7beb\">b7627b9</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/74125fb4e8ea08c5e68ad0b3e5a3c3f04221861d\">74125fb</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/1635a5b0f493938b91472cb4ad668e8e197bfbac\">1635a5b</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/e92671440bc3719000fb9c3756d6ab5d5f0e479c\">e926714</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6d48c6f33adf37f243499978df0e459727947c55\">6d48c6f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/da5c93e9f72712ea589fd2fa4ab13e2836be398d\">da5c93e</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4a5b88d0ebc3069471895885bdeeed9a07de59db\">4a5b88d</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/c5b18554dc5255b16112033cefa92c2720443b6d\">c5b1855</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/91ae35cfc69ab1e5d6c9669f24b8c81899d0bf87\">91ae35c</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5d6e016450601e1cf724439af727de9aa950e281\">5d6e016</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4ecf3a408b2eb7d95662a2e6cd24501a39e12322\">4ecf3a4</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/e884ff0ec64969f30fd66e64b6d43dcfa36d46a5\">e884ff0</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/8313c87cab4c780b5f6ac767a3e6972020e41273\">8313c87</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/7ec70f298b4a0dbdc9402739887e924c10c2b513\">7ec70f2</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/352f248ef9657ea4b1b76072aba984b20661c03d\">352f248</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6295f697f351791b91e336a6c2620aeea17db3b0\">6295f69</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/e58e45f865fc5e0ddedf07c6690725ab8feec7ac\">e58e45f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/42e9b848c621d9e40711cb9f7f68cb282e68e682\">42e9b84</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/ecabaf7371d382b404a55d2430957e5f1314c958\">ecabaf7</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/b59eda06f6ec837726fab606a3033cb4740beb28\">b59eda0</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4f1c6028cd16b8ddf79124ce53e3df56a2bcf8ea\">4f1c602</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/b7627b9c08b87c229a0a6fb4feba328ad4ff7beb\">b7627b9</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/74125fb4e8ea08c5e68ad0b3e5a3c3f04221861d\">74125fb</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/1635a5b0f493938b91472cb4ad668e8e197bfbac\">1635a5b</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/e92671440bc3719000fb9c3756d6ab5d5f0e479c\">e926714</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6d48c6f33adf37f243499978df0e459727947c55\">6d48c6f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/da5c93e9f72712ea589fd2fa4ab13e2836be398d\">da5c93e</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4a5b88d0ebc3069471895885bdeeed9a07de59db\">4a5b88d</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/c5b18554dc5255b16112033cefa92c2720443b6d\">c5b1855</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/91ae35cfc69ab1e5d6c9669f24b8c81899d0bf87\">91ae35c</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5d6e016450601e1cf724439af727de9aa950e281\">5d6e016</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/4ecf3a408b2eb7d95662a2e6cd24501a39e12322\">4ecf3a4</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/e884ff0ec64969f30fd66e64b6d43dcfa36d46a5\">e884ff0</a>\n- <a href=\"https://github.com/eyolas/Morphomatic/commit/8313c87cab4c780b5f6ac767a3e6972020e41273\">8313c87</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/cc01af58dcb10ff4f01f6c02bf5e510fb165ce18\">cc01af5</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/7ff447d6d85a615f79beb99009a50430cd4c5e8c\">7ff447d</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/f717fc2379f58c68d2195aec1aaa883c19d7a716\">f717fc2</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/f7a6a6b85b3c795507848f3bcf09a45ec7a88794\">f7a6a6b</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5b60f35d6aa1cc4dd73173c5e08b36d68984a407\">5b60f35</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/7ec70f298b4a0dbdc9402739887e924c10c2b513\">7ec70f2</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
