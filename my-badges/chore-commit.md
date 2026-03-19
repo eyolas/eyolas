@@ -4,7 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/5b60f35d6aa1cc4dd73173c5e08b36d68984a407">5b60f35</a>: chore: bump all packages from v0.2.0 to v0.3.0
+- <a href="https://github.com/eyolas/conveyor/commit/c5d672fa5506e604ffc3309217f13b83ff978dab">c5d672f</a>: chore: move OpenTelemetry to phase 6 and mark phase 4 done
+
+All phase 4 items (flows, batching, observables, groups) are complete.
+OpenTelemetry moved to phase 6 (tooling/ecosystem) as a lower-priority item.
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 
