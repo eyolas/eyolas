@@ -66,7 +66,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/c5d672fa5506e604ffc3309217f13b83ff978dab\">c5d672f</a>: chore: move OpenTelemetry to phase 6 and mark phase 4 done\n\nAll phase 4 items (flows, batching, observables, groups) are complete.\nOpenTelemetry moved to phase 6 (tooling/ecosystem) as a lower-priority item.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/68201d80615eacd334ec8e3620f5562172fb4945\">68201d8</a>: chore: bump all packages to v1.0.0\n\nBump version from 0.4.0 to 1.0.0 across all 8 workspace packages,\ninter-package dependencies, lock file, docs, and CLAUDE.md.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 376 times)\n2. update (used 174 times)\n3. co-authored-by: (used 142 times)\n4. claude (used 142 times)\n5. opus (used 142 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 384 times)\n2. update (used 174 times)\n3. co-authored-by: (used 152 times)\n4. claude (used 152 times)\n5. opus (used 152 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -194,5 +194,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/f717fc2379f58c68d2195aec1aaa883c19d7a716\">f717fc2</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/f7a6a6b85b3c795507848f3bcf09a45ec7a88794\">f7a6a6b</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5b60f35d6aa1cc4dd73173c5e08b36d68984a407\">5b60f35</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/7ec70f298b4a0dbdc9402739887e924c10c2b513\">7ec70f2</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/eyolas/conveyor/commit/9a9a1734b4b892f9e60b8123dead533c0a489aa2\">9a9a1734b4b892f9e60b8123<strong>dead</strong>533c0a489aa2</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   }
 ]
