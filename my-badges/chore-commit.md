@@ -4,10 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/68201d80615eacd334ec8e3620f5562172fb4945">68201d8</a>: chore: bump all packages to v1.0.0
-
-Bump version from 0.4.0 to 1.0.0 across all 8 workspace packages,
-inter-package dependencies, lock file, docs, and CLAUDE.md.
+- <a href="https://github.com/eyolas/conveyor/commit/9aff937d9b8d194e1f4f57a579a5d05080bf766f">9aff937</a>: chore: mark Phase 3 as complete in bullmq-api-parity
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 
