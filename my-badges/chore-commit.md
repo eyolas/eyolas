@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/9aff937d9b8d194e1f4f57a579a5d05080bf766f">9aff937</a>: chore: mark Phase 3 as complete in bullmq-api-parity
+- <a href="https://github.com/eyolas/conveyor/commit/4e1156a239526abf44cf01fe78a7d918b42c1447">4e1156a</a>: chore(docs): suppress chunk size warning for Mermaid bundle
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 
