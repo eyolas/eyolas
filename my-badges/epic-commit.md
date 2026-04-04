@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/eyolas/conveyor/commit/7d25dd8ed6bfb5779d6f6a2617dc08f0934fe80c">7d25dd8</a>
 - <a href="https://github.com/eyolas/conveyor/commit/6a89531977c4097d36679173839123a858cc651b">6a89531</a>
 - <a href="https://github.com/eyolas/conveyor/commit/23593b00ba8c4b4d7c7237bc2ffa63bbd564fcba">23593b0</a>
 - <a href="https://github.com/eyolas/conveyor/commit/c00774c7592c838e76d453d4a26a6a23dac95a9e">c00774c</a>
