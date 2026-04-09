@@ -7,6 +7,7 @@ Pull requests:
 - <a href="https://github.com/eyolas/conveyor/pull/3">#3</a>: Add worker rate limiting and cron scheduling (Phase 3)
 - <a href="https://github.com/eyolas/conveyor/pull/4">#4</a>: Add documentation, benchmarks, and code quality fixes
 - <a href="https://github.com/eyolas/conveyor/pull/5">#5</a>: Fix permissions, error handling, and add missing tests
+- <a href="https://github.com/eyolas/conveyor/pull/38">#38</a>: feat(dashboard): add Preact SPA dashboard UI
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
