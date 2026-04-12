@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/2c3e1672c37f18aa537ba8ad9092bd470c50a298\">2c3e167</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/c33ea8417572a25e71e5bdca1ea761b2cd5cfb43\">c33ea84</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/fe1ebcda8a2e256c82ad465c077d6a49ab815251\">fe1ebcd</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5df68a9be34540ce4b5e1d6338b527672c047ad7\">5df68a9</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6d48c6f33adf37f243499978df0e459727947c55\">6d48c6f</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/da5c93e9f72712ea589fd2fa4ab13e2836be398d\">da5c93e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/eyolas/conveyor/commit/e864a818ac9d64d1f6fa50f20c6c7042611e120e\">e864a81</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/2c3e1672c37f18aa537ba8ad9092bd470c50a298\">2c3e167</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/c33ea8417572a25e71e5bdca1ea761b2cd5cfb43\">c33ea84</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/fe1ebcda8a2e256c82ad465c077d6a49ab815251\">fe1ebcd</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/5df68a9be34540ce4b5e1d6338b527672c047ad7\">5df68a9</a>\n- <a href=\"https://github.com/eyolas/conveyor/commit/6d48c6f33adf37f243499978df0e459727947c55\">6d48c6f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 459 times)\n2. claude (used 264 times)\n3. co-authored-by: (used 262 times)\n4. opus (used 262 times)\n5. 4.6 (used 262 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 462 times)\n2. claude (used 264 times)\n3. co-authored-by: (used 262 times)\n4. opus (used 262 times)\n5. 4.6 (used 262 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -201,5 +201,12 @@
     "desc": "I pushed a commit with \"dead\" once.",
     "body": "- <a href=\"https://github.com/eyolas/conveyor/commit/9a9a1734b4b892f9e60b8123dead533c0a489aa2\">9a9a1734b4b892f9e60b8123<strong>dead</strong>533c0a489aa2</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/eyolas/conveyor/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   }
 ]
