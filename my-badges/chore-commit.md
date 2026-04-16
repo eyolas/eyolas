@@ -4,7 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/4e1156a239526abf44cf01fe78a7d918b42c1447">4e1156a</a>: chore(docs): suppress chunk size warning for Mermaid bundle
+- <a href="https://github.com/eyolas/conveyor/commit/5dd9610d22d46e34081a6c35f4065846f90fed02">5dd9610</a>: chore(tasks): mark web-dashboard as done, update status
+
+All dashboard phases complete including dashboard-client package
+and JSR publish (v1.3.0).
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 
