@@ -4,12 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/5dd9610d22d46e34081a6c35f4065846f90fed02">5dd9610</a>: chore(tasks): mark web-dashboard as done, update status
+- <a href="https://github.com/eyolas/conveyor/commit/bcad718525d7ed7c4e500472f593ec1e133af782">bcad718</a>: chore: bump version to v1.4.0
 
-All dashboard phases complete including dashboard-client package
-and JSR publish (v1.3.0).
-
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
