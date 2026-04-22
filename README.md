@@ -1,3 +1,43 @@
+<h1 align="center">👋 Hi, I'm eyolas</h1>
+<h3 align="center">David Touzet · Staff DevX Engineer @ Indy</h3>
+
+<p align="center">
+  Making life better for fellow developers through DevX &amp; DevOps.<br>
+  Kubernetes and Deno enthusiast. Based in Lyon, France.
+</p>
+
+<p align="center">
+  <a href="https://eyolas.fr"><img alt="Website" src="https://img.shields.io/badge/eyolas.fr-ff9800?style=flat-square&logo=safari&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/david-touzet-94b01a141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Eyolas"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"></a>
+</p>
+
+---
+
+### 🔧 Tech
+- **Languages** — TypeScript, JavaScript, Lua
+- **Platform** — Kubernetes, k3s, Kong, GitHub Actions
+- **Focus** — DevX, DevOps, internal platforms, tooling
+
+### 📊 GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=eyolas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff9800&icon_color=ff9800&text_color=e6edf3&ring_color=ff9800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyolas&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff9800&text_color=e6edf3&langs_count=8" height="170"/>
+</p>
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=eyolas&custom_title=contribution%20activity&bg_color=0d1117&color=e6edf3&line=ff9800&point=ff9800&area=true&area_color=ff9800&title_color=ff9800&hide_border=true)
+
+### 🚀 Featured
+
+**Kong Plugins** · [referer](https://github.com/eyolas/kong-plugin-referer) · [http-log-advanced](https://github.com/eyolas/kong-plugin-http-log-advanced) · [key-auth-referer](https://github.com/eyolas/kong-plugin-key-auth-referer) · [middleman-advanced](https://github.com/eyolas/kong-plugin-middleman-advanced)
+
+**Node.js** · [conveyor](https://github.com/eyolas/conveyor) (BullMQ-like job queue for Node & Deno) · [gitlab-download](https://github.com/eyolas/gitlab-download) · [jest-serializer-supertest](https://github.com/eyolas/jest-serializer-supertest)
+
+---
+
+<details>
+<summary>🏅 My Badges</summary>
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
@@ -31,3 +71,4 @@
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <!-- my-badges end -->
 
+</details>
