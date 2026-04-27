@@ -4,10 +4,19 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/36d698db160dc6afaa21c9fd10c75ce47f83cd23">36d698d</a>: fix(ci): correct wrangler-action SHA in deploy-docs workflow
+- <a href="https://github.com/eyolas/voyageDL/commit/e508e8edca2f2497c7995bbf88f8d1311dcab729">e508e8e</a>: Fix missing Deezer covers: cache invalidation and attached_pic on MP3
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
-- <a href="https://github.com/eyolas/conveyor/commit/3bc618ddba481a53b34a7c671a05f164e3a36b7c">3bc618d</a>: fix(ci): correct setup-node action SHA in deploy-docs workflow
+Per-track cache v2 (old entries without album_cover_url ignored),
+-disposition:v:0 attached_pic now applied to MP3s as well, and embed
+errors are logged instead of being silently swallowed.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
+- <a href="https://github.com/eyolas/voyageDL/commit/471a4d86b02b442ab71d96c54b62f62aab9ff532">471a4d8</a>: Fix download duplicates: clean up finished jobs and harden the queue
+
+Finished jobs used to stick around in downloadJobs, causing
+re-downloads after a queue clear. Refactored processJobs into a while
+loop over jobsRef to pick up new jobs added during an ongoing
+download.
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 
