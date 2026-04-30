@@ -98,13 +98,6 @@
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 3 my own repositories.",
-    "body": "- <a href=\"https://github.com/eyolas/yanlog\">eyolas/yanlog</a>\n- <a href=\"https://github.com/eyolas/netbeansKillSpringBoot\">eyolas/netbeansKillSpringBoot</a>\n- <a href=\"https://github.com/eyolas/kong-plugin-middleman-advanced\">eyolas/kong-plugin-middleman-advanced</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
