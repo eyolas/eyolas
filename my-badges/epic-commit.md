@@ -10,6 +10,7 @@ Commits:
 - <a href="https://github.com/eyolas/voyageDL/commit/574e6c60160180465b25e3243d7ef1b4754b9d32">574e6c6</a>
 - <a href="https://github.com/eyolas/voyageDL/commit/e87f933be08751d11de64dc9aa36a33c7babdff6">e87f933</a>
 - <a href="https://github.com/eyolas/voyageDL/commit/a8367b747926cb70ddc013039b14291b53d457d1">a8367b7</a>
+- <a href="https://github.com/eyolas/conveyor/commit/fb1b48dbad38d25c26cb4cb146aca4e229d29a9f">fb1b48d</a>
 - <a href="https://github.com/eyolas/conveyor/commit/c3e440abc423057719b30fe098c50cdc9a029e62">c3e440a</a>
 - <a href="https://github.com/eyolas/conveyor/commit/8841c14882af786e77990860308d57c153cab56a">8841c14</a>
 - <a href="https://github.com/eyolas/conveyor/commit/41ed8a7457b79fb7731004d5c1a0afb971054432">41ed8a7</a>
