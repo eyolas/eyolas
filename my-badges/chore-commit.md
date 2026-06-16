@@ -4,35 +4,18 @@
 
 Commits:
 
-- <a href="https://github.com/eyolas/conveyor/commit/c3e440abc423057719b30fe098c50cdc9a029e62">c3e440a</a>: chore(store-sqlite): allowlist ORDER BY fragments (#64)
+- <a href="https://github.com/eyolas/conveyor/commit/901e5c4ad5e9a9664606593e439a99cf836c8688">901e5c4</a>: chore(ci): replace Dependabot with Renovate for Deno + npm deps (#69)
 
-* chore(store-sqlite): allowlist ORDER BY fragments
+Dependabot has no Deno support (deno.json / JSR specifiers). Renovate's
+deno manager handles jsr:/npm: imports in deno.json alongside the npm
+package.json files and GitHub Actions, so a single tool covers everything.
 
-Defense-in-depth against future regressions. The three ORDER BY
-interpolations in sqlite-store.ts are currently safe (values derived
-from booleans / enum states), but nothing prevents a later change from
-feeding attacker-controlled input into the same template.
+- Add renovate.json (npm + deno + github-actions managers)
+- Disable @conveyor/** to avoid bumping internal JSR cross-refs
+- Group actions into one PR (parity with old Dependabot 'actions' group)
+- Remove .github/dependabot.yml to prevent duplicate action PRs
 
-Introduce SAFE_FETCH_ORDERS / SAFE_LIST_ORDERS allowlists and an
-assertSafeSqlFragment helper that throws if an interpolated fragment
-falls outside the list. Same wire behavior, runtime guard on drift.
-
-Flagged in a full-project security review (no exploit today, hardening
-only).
-
-Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
-
-* test(store-sqlite): cover assertSafeSqlFragment guard
-
-Lock in the allowlist contract so a future regression that adds an
-unsafe ORDER BY fragment fails loudly at unit-test level instead of
-only at the interpolation sites.
-
-Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
-
----------
-
-Co-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
+Co-authored-by: Claude Opus 4.8 (1M context) <noreply@anthropic.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
